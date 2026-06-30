@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://YvonneO-lt3242-7.github.io/info-pages/sitemap.xml
